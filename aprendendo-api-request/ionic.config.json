@@ -1,0 +1,7 @@
+{
+  "name": "aprendendo-api-request",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
